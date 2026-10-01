@@ -1,16 +1,7 @@
-# React + Vite
+# Job Search Command Center
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Job Search Command Center is a responsive frontend web application designed to help users track and manage their job application pipeline. Built as a capstone project for my Frontend Development Internship, this application demonstrates a complete software development lifecycle from initial planning to production-ready deployment. 
 
-Currently, two official plugins are available:
+Developed using React and styled with Tailwind CSS, the project features a fully functional Kanban board with drag-and-drop capabilities, interactive data visualization, and robust form validation. The application relies on Zustand for global state management and utilizes browser local storage to persist data seamlessly without requiring a backend database. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Key engineering practices applied include modular component architecture, responsive mobile-first design, and clean code principles. This repository serves as a comprehensive showcase of modern frontend development standards and practical problem-solving skills.
